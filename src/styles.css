@@ -1,0 +1,177 @@
+h1
+{
+  font-family: 'Alex Brush', cursive;
+  font-size: 150px;
+}
+input
+{
+
+  border: none;
+  border-bottom: 1px solid #000000;
+}
+input:focus
+{
+  outline: none;
+}
+textarea
+{
+  padding:5%;
+}
+
+.logo
+{
+  position: absolute;
+  top:15px;
+  left:15px;
+}
+.home
+{
+  background-image: url("images/homePageBg.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 609px;
+  width:1295px;
+  color: white;
+  padding: 2%;
+}
+.smallbutton
+{
+  width: 116px;
+  height: 50px;
+  background-color: #FFBD14;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.div1
+{
+  text-align: center;
+}
+
+
+.login
+{
+  background-image: url("images/loginBg.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 609px;
+  color: white;
+  padding-top: 2%;
+  margin-right: 0;
+}
+.div2
+{
+  text-align: center;
+}
+.form-label
+{
+  color: black;
+}
+.bigbutton
+{
+  width: 316px;
+  height: 50px;
+  background-color: #FFBD14;
+}
+.rect1
+{
+  margin-left: 150px;
+  padding: 5%;
+  height: 215px;
+  width: 316px;
+  background-color: white;
+  text-align: left;
+}
+
+.rect2
+{
+  margin-left: 150px;
+  padding: 5%;
+  height: 295px;
+  width: 316px;
+  background-color: white;
+  text-align: left;
+}
+
+
+.allposts
+{
+  background-image: url("images/OtherBg.png");
+  background-position: center;
+  background-size: cover;
+  opacity: 0.79;
+  height:609px;
+  color: white;
+  text-align: center;
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+.post-img
+{
+  width: 250px;
+  height: 250px;
+}
+.left-div
+{
+  text-align: right;
+  padding-left: 3%;
+}
+.right-div
+{
+  text-align: right;
+  padding: 5%;
+  padding-right: 15%;
+}
+
+
+.new
+{
+  text-align: left;
+}
+.newpost-body
+{
+    padding-left: 9%;
+}
+.title-input
+{
+  width: 450px;
+  padding: 2%;
+  padding-left: 3%;
+}
+.image-upload>input {
+  display: none;
+}
+.post-button
+{
+  position: relative;
+  right: 5.5%;
+  text-align: center;
+}
+.info
+{
+  text-align: center;
+  padding-left: 13%;
+  margin-bottom: 5%;
+}
+.rect
+{
+  background-color: white;
+  color: black;
+  margin: 5%;
+  padding: 2%;
+}
+.blogText
+{
+  text-align: left;
+  width: 1000px;
+  word-wrap: break-word;
+}
+.comment
+{
+  text-align: left;
+  padding-left: 4%;
+}
+.comment-text
+{
+  width: 1100px;
+  padding-left: 1%;
+}
