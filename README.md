@@ -16,4 +16,4 @@ The website that I have made is a food blog system. Where a user can Login and R
 
 # A demo video of the project
 
-Uploading FoodWebsiteDemoVideo.mp4…
+https://user-images.githubusercontent.com/78225681/177040054-f7617b7b-2487-42da-ad0d-cbe520f14a7a.mp4
